@@ -36,6 +36,8 @@ If you face any problem, kindly raise an issue
 ## Autopilot V2 (NVIDIA Dataset based on real world)
 
 ### Dataset
+Approximately 63,000 images, 3.1GB. Data was recorded around Rancho Palos Verdes and San Pedro California.
+Data format is as follows: filename.jpg angle,year-mm-dd hr:min:sec:millisec
 Download the dataset at [here](https://github.com/SullyChen/driving-datasets) and extract into the repository folder
 
 ### Python  Implementation
