@@ -61,5 +61,7 @@ If you face any problem, kindly raise an issue
 * This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow and it’s forked from the [GitHub - akshaybahadur21/Autopilot: A self driving car model for humans.](https://github.com/akshaybahadur21/Autopilot)
 
 Jair Ribeiro 
-<img src="LinkProf.jpeg" style="width: auto; height: auto; margin-left: 50px; " /> <br>
+<br>
+<img src="LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+<br>
 https://www.linkedin.com/in/jairribeiro/
