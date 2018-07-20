@@ -1,7 +1,7 @@
 ## Basic_Self_driving_car
 This code helps in getting the steering angle of self driving car. 
 
-![amazing](./screen.jpeg)
+(./screen.jpeg)
 
 The inspiration is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well [End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA
 [Autopilot Version 2](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
@@ -59,3 +59,7 @@ If you face any problem, kindly raise an issue
 * Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 * [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
 * This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow and it’s forked from the [GitHub - akshaybahadur21/Autopilot: A self driving car model for humans.](https://github.com/akshaybahadur21/Autopilot)
+
+Jair Ribeiro 
+(./LinkProf.jpeg)
+https://www.linkedin.com/in/jairribeiro/
