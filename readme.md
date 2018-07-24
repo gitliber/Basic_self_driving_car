@@ -73,9 +73,12 @@ If you face any problem, kindly raise an issue
 
 ### References:
 * Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
+
 * [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
+
 * This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow and it’s forked from the [GitHub - akshaybahadur21/Autopilot: A self driving car model for humans.](https://github.com/akshaybahadur21/Autopilot)
-*How Does a Self-Driving Car Work? By Chris Pichereau, Abshier House [https://www.dummies.com/consumer-electronics/how-does-a-self-driving-car-work/]
+
+* How Does a Self-Driving Car Work? By Chris Pichereau, Abshier House [https://www.dummies.com/consumer-electronics/how-does-a-self-driving-car-work/]
 
 Jair Ribeiro 
 <br>
